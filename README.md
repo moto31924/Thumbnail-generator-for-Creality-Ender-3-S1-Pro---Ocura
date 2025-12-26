@@ -30,7 +30,6 @@ Its important to set up this paramets correctly as shown picture:
 
 7)Save everything and you can start slicing, thumbnail will be in supported g-code format and will be shown in printers LCD screen with printing time and fillament use.
 
-I am sorry, as i am not a programmer i will not put any updates, i just wanted to make this feature working for myself and decide to put it public, maybe someone will use it too.
 
 *Tested on OcuraSlicer 2.3.1
 
