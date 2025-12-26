@@ -1,8 +1,8 @@
-Original file is from this site https://www.printables.com/model/854118-orca-ender-3-s1-thumbnail-generator/files
+Original file is from this site https://www.printables.com/model/854118-orca-ender-3-s1-thumbnail-generator/files and https://community.ultimaker.com/topic/44667-no-thumbnail-on-creality-3-vs2/#comment-330593
 
 It need to be set up correctly and the script will generate JPG 300x300 thumbnail automaticaly when exporting the G-CODE.
 
-Original creator has set up image size 200x200 but this size is not working for Ender 3 S1 Pro, so i change it and now its working properly.
+Origin script have set up image size 200x200 but this size is not working for Ender 3 S1 Pro, so i fix it and now its working properly for S1 Pro.
 
 How to install?
 
