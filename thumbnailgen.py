@@ -70,7 +70,7 @@ def thumbnailFormatting(lines, thumbnailOriginalTextGroups):
         img_x1 -= (img_bbox_y - img_bbox_x)/2
         img_x2 += (img_bbox_y - img_bbox_x)/2
     img_png_rgb = img_png_rgb.crop((img_x1, img_y1, img_x2, img_y2))
-    img_png_rgb = img_png_rgb.resize((300, 300))
+    img_png_rgb = img_png_rgb.resize((200, 200))
     img_png_rgb = img_png_rgb.filter(ImageFilter.DETAIL)
     img_byte_arr = io.BytesIO()
     img_png_rgb.save(img_byte_arr, format='jpeg', quality=95, optimize=False)
